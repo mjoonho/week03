@@ -1,4 +1,4 @@
-package com.sparta.week03.domain.controller;
+package com.sparta.week03.controller;
 
 import com.sparta.week03.domain.Memo;
 import com.sparta.week03.domain.MemoRepository;
